@@ -1,0 +1,7 @@
+- show: true #This turns the banner on and off. For example: 'true' is on, 'false' is off
+  background: black #Options are magenta, cyan or black
+  end-date: "2021-02-28" #date in YEAR-MONTH-DAY, example 2020-10-21
+  exclude:  #If linking to a page on the website, add the URL here. For example: /pride/
+  
+  #Use normal markdown - the text should be no more than 119 characters.
+  content: Days of Queer, [Celebrating Our LGBT+ History](https://www.civilservice.lgbt/2021/01/24/days-of-queer-celebrating-our-lgbtplus-history). See our programme of [events](https://www.civilservice.lgbt/events/) for LGBT+ History Month!
