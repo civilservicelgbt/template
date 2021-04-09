@@ -145,7 +145,7 @@
 # ##################
 # # Build settings #
 # ##################
-# remote_theme: civilservicelgbt/cslgbt-theme
+# remote_theme: civilservicelgbt/theme
 # permalink: pretty
 # markdown: kramdown
 # future: false
