@@ -1,11 +1,14 @@
 name: Build and deploy site
 
-on:
-  push:
-    branches:
-      - master
-  schedule:
-    - cron: "0 0 * * *"
+# UNCOMMENT THE BELOW BLOCK BASED ON NEED
+# USE 'PUSH' IF YOU WANT THE SITE TO BUILD WHEN YOU ADD FILES
+# USE 'SCHEDULE' IF YOU WANT TO RUN DAILY (OR ANOTHER DEFINED 'CRON' PERIOD)
+# on:
+#   push:
+#     branches:
+#       - master
+#   schedule:
+#     - cron: "0 0 * * *"
 
 jobs:
   jekyll:
